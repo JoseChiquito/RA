@@ -1,0 +1,7 @@
+{
+  "name": "RA1_PSJE",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
